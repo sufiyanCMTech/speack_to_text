@@ -30,6 +30,7 @@ class MainActivity : AppCompatActivity() {
             speechinput()
         }
         println("")
+        println("First commit done successfully")
     }
 
     @Deprecated("Deprecated in Java")
