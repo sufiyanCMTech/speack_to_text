@@ -31,6 +31,8 @@ class MainActivity : AppCompatActivity() {
         }
         println("")
         println("First commit done successfully")
+        print("one of the best platform to leaning")
+
     }
 
     @Deprecated("Deprecated in Java")
