@@ -33,6 +33,7 @@ class MainActivity : AppCompatActivity() {
         println("First commit done successfully")
         print("one of the best platform to leaning")
         print("for one more time im want to commite that thing")
+        print("one the last commit all show you")
 
     }
 
