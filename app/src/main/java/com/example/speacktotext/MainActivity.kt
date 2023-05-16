@@ -35,6 +35,8 @@ class MainActivity : AppCompatActivity() {
         print("for one more time im want to commite that thing")
         print("one the last commit all show you")
         print("for using terminal ")
+        print("Login")
+        print("Make some changes")
 
     }
 
