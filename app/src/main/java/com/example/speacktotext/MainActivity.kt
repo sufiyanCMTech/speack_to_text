@@ -38,6 +38,7 @@ class MainActivity : AppCompatActivity() {
         print("Login")
         print("Make some changes")
         println("merging our changes")
+        print("change 1")
 
     }
 
