@@ -39,6 +39,7 @@ class MainActivity : AppCompatActivity() {
         print("Make some changes 4")
         println("change 4")
         println("to merging that fil")
+        println("hello form your friend")
 
     }
 
