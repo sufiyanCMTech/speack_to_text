@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
         print("for using terminal ")
         print("Login")
         print("Make some changes")
-        println("change 2")
+        println("change 4")
         println("to merging that fil")
 
     }
