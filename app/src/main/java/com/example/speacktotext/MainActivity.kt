@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
         print("one the last commit all show you")
         print("for using terminal ")
         print("Login")
-        print("Make some changes")
+        print("Make some changes 4")
         println("change 4")
         println("to merging that fil")
 
